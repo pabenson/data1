@@ -1,4 +1,4 @@
-package data1;
+package data1finitesets;
 
 public class NotEmpty implements BST {
 
